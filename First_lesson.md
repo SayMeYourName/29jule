@@ -11,3 +11,5 @@ trying start to conflict branchs
 
 
 *Ну тут текст для ветки test1*
+
+Вносим изменения на GitHub и будем пробовать слить в основной файл
